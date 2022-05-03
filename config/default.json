@@ -1,4 +1,7 @@
 {
     "mongoURI": "mongodb+srv://sixzera:sixzera@devconnector.goz4l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "cfe5d53ed75a490e6eb9",
+    "githubSecret": "e5f8a69c7bda4deb308e49df976b00e986a53b55",
+    "githubToken": "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"
 }
